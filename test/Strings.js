@@ -20,7 +20,7 @@ console.log(html.indexOf('i'));
 console.log(html.lastIndexOf('i'));
 console.log(html.charAt(27));
 console.log(html.substring(5,9));
-console.log(html.slice(2, -9));
+console.log(html.slice(2, -9));  //does not change the original array
 console.log(html.split("i"));
 
 let test = html.replace("this","It")
