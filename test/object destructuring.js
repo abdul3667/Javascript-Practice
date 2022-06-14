@@ -42,7 +42,3 @@ const [ {firstName : name}, , {gender}] = users
 console.log(name, gender);
 
 
-
-
-
-
